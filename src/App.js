@@ -635,12 +635,12 @@ export default function App() {
             <h3 className="text-xl font-bold mb-4">Join the Crazzzy Monsters adventure!</h3>
             <p className="text-gray-400">
               Built By <a 
-              href="https://twitter.com/FR33D3v" 
+              href="https://x.com/CrazzzyMonsters" 
               target="_blank" 
               rel="noopener noreferrer" 
               className="text-orange-500 hover:text-orange-600 transition-colors"
               >
-              FR33D3V
+              CRAZZZY MONSTERS
               </a>
             </p>
             <div className="flex justify-center space-x-6 mt-6">
