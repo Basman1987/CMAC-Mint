@@ -472,7 +472,7 @@ export default function App() {
                   textShadow: '2px 2px 4px rgba(0, 0, 0, 0.3)'
                 }}
               >
-                CRAZZZY MONSTERS ARCANE CREATURES EDITION G2
+                CRAZZZY MONSTERS ARCANE CREATURES EDITION DEFI MINT
               </h1>
 
             <div className="grid grid-cols-2 gap-4">
